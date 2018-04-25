@@ -56,5 +56,5 @@ The design must fit in one of the following sizes
  3. Include description of image
 # Judging
 - Top 5 will be selected by organizers and then open to vote by members
-
+## Now Go Get It!
 ![Gif go get em](https://media.giphy.com/media/l3mZslQwX1rJjOZZ6/source.gif)
