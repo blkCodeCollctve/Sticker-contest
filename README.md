@@ -1,7 +1,9 @@
 ![Black Code Collective logo](https://docs.google.com/drawings/d/e/2PACX-1vTyK6oQqCI_cDbKdNgC3R_3lBNuq-N57kQeWKdZza0OxahtqWwJYEWONRPBZTHR-1giYgfq3VWpHIVr/pub?w=947&h=315)
+> If the images are not showing, you can acess this README in a [Google Doc](https://docs.google.com/document/d/1fMHVXM8_M7oPQancrd44pC8xzYYL4LtVdJkGt8YC9UE/edit?usp=sharing)
 
+---
 We're creating a new sticker and want your cool designs!
-
+----
 
 ---
 ## Submission Deadline: 11:59 PM May 25th 
