@@ -15,8 +15,8 @@ We're creating a new sticker and want your cool designs!
 For inspiration look at our 2 previous stickers we have produced.
 Also check out our files in the repo for design use.
 
-![BLACKCodeCollective](https://artisan-production.s3.amazonaws.com/artwork_revisions/848366/original_2x/1132984.png?response-content-disposition=attachment%3B%20filename%3D1132984.png&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMQBUIKCJ7VZ47BA%2F20180425%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20180425T165325Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=768b387f72acd7948bda782cd8302cea5c7f9fd02519ac896ad23a4010c49d0f)
-![Fist logo](https://artisan-production.s3.amazonaws.com/artwork_revisions/646128/original_2x/971987.png?response-content-disposition=attachment%3B%20filename%3D971987.png&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMQBUIKCJ7VZ47BA%2F20180425%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20180425T165348Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=05898d7b4911628b9be6cf7f15b75a7e0b92c6be587982f1997cf739eb90a832)
+![BlackCodeCollective](https://imgur.com/cvUBDBF.png)
+![Fist logo](https://imgur.com/dB8wjOL.png)
 
 ## Color Palette
 
